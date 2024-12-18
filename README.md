@@ -1,4 +1,5 @@
 # js-fizzbuzz
+
 Scrivi un programma che stampi i numeri da 1 a 100, ma per i multipli di 3 stampi “Fizz” al posto del numero e per i multipli di 5 stampi Buzz.
 Per i numeri che sono sia multipli di 3 che di 5 stampi FizzBuzz.
 
@@ -13,9 +14,9 @@ Per i numeri che sono sia multipli di 3 che di 5 stampi FizzBuzz.
             -STAMPO FIZZ
         -SE i MOD DI 5 E' UGUALE A 5
             -STAMPO BUZZ
-        -ALTRIMENTI 
+        -ALTRIMENTI
             -STAMPO IL NUMERO CHE i HA IN QUEL MOMENTO
-            
+
     -INCREMENTO i di 1
 
 -QUANDO i SUPERA 100 TERMINO IL PROGRAMMA
